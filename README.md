@@ -13,8 +13,6 @@ A machine learning web app that predicts whether a loan application will be appr
 - Logistic Regression
 - Streamlit
 
-## 📁 Files
-
 ## 💻 Run Locally
 
 ```bash
